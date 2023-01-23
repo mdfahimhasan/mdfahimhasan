@@ -1,4 +1,4 @@
-- Hi there 👋 I am Fahim,a PhD student at CSU CIVE
+- Hi there 👋 I am Fahim, a PhD student at CSU CIVE
 - 🔭 I’m currently working on groundwater hydrology|remote sensing|ML-DL
 - 🌱 I’m currently learning and working on DL-based groundwater models
 - 📫 reach me: Fahim.Hasan@colostate.edu / fahimhasan107@gmail.com
