@@ -1,5 +1,5 @@
-- Hi there 👋 I am Fahim, a PhD student at CSU CIVE
-- 🔭 I’m currently working on groundwater hydrology|remote sensing|ML-DL
-- 🌱 I’m currently learning and working on DL-based groundwater models
+- Hi there 👋 I am Fahim, a PhD candidate at CSU CIVE
+- 🔭 My current research lies at the intersection of groundwater, remote sensing, and machine/deep learning.
+- 🌱 I’m currently working on estimating irrigation groundwater use based on satellite-in situ datasets using machine/deep learning and data science tools
 - 📫 reach me: Fahim.Hasan@colostate.edu / fahimhasan107@gmail.com
 - 😄 Pronouns: he/his/him
