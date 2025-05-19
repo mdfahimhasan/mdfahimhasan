@@ -1,5 +1,5 @@
-- Hi there 👋 I am Fahim, a PhD candidate at CSU CIVE
-- 🔭 My current research lies at the intersection of groundwater, remote sensing, and machine/deep learning.
-- 🌱 I’m currently working on estimating irrigation groundwater use based on satellite-in situ datasets using machine/deep learning and data science tools
+- Hi there 👋 I am Fahim, a __PhD candidate__ at CSU CIVE.
+- 🔭 My current research lies at the intersection of __groundwater, irrigation water use, remote sensing, geospatial data science, and machine/deep learning__. My PhD dissertation focues on assessing/quantifying hydrological fluxes (effective precipitation, groundwater pumping) in irrigated agriculture using satellite & in-situ datasets + physics-based AI + geospatial data science.
+- 🌱 I am currently an __Agricultural System Data Scientist__ Intern at __Syngenta__ - Global Soil Health Team. I worked a __Data Science Intern__ at __Bayer__ in 2023 with their Global Digital Phenotyping Team.
 - 📫 reach me: Fahim.Hasan@colostate.edu / fahimhasan107@gmail.com
 - 😄 Pronouns: he/his/him
