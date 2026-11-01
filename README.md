@@ -1,7 +1,7 @@
 <a href="https://mdfahimhasan.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://mdfahimhasan.github.io/assets/files/linkedin-cover-dark.png">
-    <img alt="Md Fahim Hasan: remote sensing, machine learning and hydrology for agricultural water" src="https://mdfahimhasan.github.io/assets/files/linkedin-cover.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://mdfahimhasan.github.io/assets/files/banner-dark.gif">
+    <img alt="Md Fahim Hasan: remote sensing, machine learning and hydrology for agricultural water" src="https://mdfahimhasan.github.io/assets/files/banner.gif" width="100%">
   </picture>
 </a>
 
