@@ -1,5 +1,14 @@
-- Hi there 👋 I am Fahim, a __PhD candidate__ at CSU CIVE.
-- 🔭 My current research lies at the intersection of __groundwater, irrigation water use, remote sensing, geospatial data science, and machine/deep learning__. My PhD dissertation focues on assessing/quantifying hydrological fluxes (effective precipitation, groundwater pumping) in irrigated agriculture using satellite & in-situ datasets + physics-based AI + geospatial data science.
-- 🌱 Recently, I completed my internship with __Syngenta__ - Global Soil Health Team in 2025 as an __Agricultural System Data Scientist__. I worked a __Data Science Intern__ at __Bayer__ in 2023 with their Global Digital Phenotyping Team.
-- 📫 reach me: Fahim.Hasan@colostate.edu / fahimhasan107@gmail.com
-- 😄 Pronouns: he/his/him
+<a href="https://mdfahimhasan.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://mdfahimhasan.github.io/assets/files/linkedin-cover-dark.png">
+    <img alt="Md Fahim Hasan: remote sensing, machine learning and hydrology for agricultural water" src="https://mdfahimhasan.github.io/assets/files/linkedin-cover.png" width="100%">
+  </picture>
+</a>
+
+### Hi, I'm Fahim 👋
+
+**Agricultural Data Scientist at Syngenta Group** · Ph.D., Civil and Environmental Engineering, Colorado State University
+
+I work at the intersection of **remote sensing, machine learning and hydrology** to understand agricultural water use, from single fields to regional scales: effective precipitation, groundwater pumping, evapotranspiration and irrigation response to climate.
+
+🌐 **[mdfahimhasan.github.io](https://mdfahimhasan.github.io)** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/md-fahim-hasan/) &nbsp;·&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=hcESosQAAAAJ&hl=en) &nbsp;·&nbsp; 📫 fahimhasan107@gmail.com
